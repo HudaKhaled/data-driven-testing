@@ -2,9 +2,11 @@
 
 This project shows an example of how to data driven testing using data provider, excel, and json.
 
-src>main>java : contains the pages
-src>test>Data : contains excel and json files
-src>test>java : contains the @Tests, dataprovider and excel/json readers
+src>main>java : contains the pages.
+
+src>test>Data : contains excel and json files.
+
+src>test>java : contains the @Tests, dataprovider and excel/json readers.
 
 Instructions:
 1. Get clone from the project
